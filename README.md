@@ -24,6 +24,8 @@ I care about clean, maintainable code — solid grounding in OOP and SOLID princ
 
 I write about Java and Spring Boot on [Medium](https://medium.com/@musstafasen).
 
+- [What Breaks When You Stop a Microservice? I Built a Small Ecosystem to Find Out](https://medium.com/@musstafasen/what-breaks-when-you-stop-a-microservice-i-built-a-small-ecosystem-to-find-out-86a2421b2005)
+
 #### 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/mustafasen-java-dev/)
